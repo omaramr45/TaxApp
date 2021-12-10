@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tipping App</string>
+    <string name="base">Base</string>
+    <string name="_24">24%</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="bill_amount">Bill amount</string>
+    <string name="_20_5">20.5</string>
+    <string name="_150">150</string>
+    <string name="Tax">Tax</string>
+</resources>
