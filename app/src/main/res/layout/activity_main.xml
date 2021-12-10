@@ -69,6 +69,7 @@
         android:layout_marginStart="32dp"
         android:background="@drawable/rounded_button_login"
         android:backgroundTint="#FFFFFF"
+        android:textColor="@color/black"
         android:ems="8"
         android:hint="@string/bill_amount"
         android:inputType="numberDecimal"
@@ -147,7 +148,7 @@
 
     <Button
         android:id="@+id/btnSplit"
-        android:layout_width="100dp"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginTop="32dp"
@@ -163,6 +164,7 @@
         android:layout_height="40dp"
         android:layout_marginStart="32dp"
         android:layout_marginTop="32dp"
+        android:textColor="@color/black"
         android:background="@drawable/rounded_button_login"
         android:ems="10"
         android:backgroundTint="#FFFFFF"

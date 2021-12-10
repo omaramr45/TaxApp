@@ -1,4 +1,4 @@
-package com.maco.tippingapp
+    package com.maco.tippingapp
 
 import android.animation.ArgbEvaluator
 import androidx.appcompat.app.AppCompatActivity
